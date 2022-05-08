@@ -2,13 +2,13 @@
 
 Number and name of feature: Feature One - Create Template and Deploy Terminal
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 minutes
 
-Start time: _____
+Start time: 1:00pm
 
-Finish time: _____
+Finish time: 3:00p
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours which included troubleshooting and reinstallation of programs and software.
 
 Number and name of feature: ________________________________
 
