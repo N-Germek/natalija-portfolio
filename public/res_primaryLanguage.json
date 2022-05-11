@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-js-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
@@ -49,7 +49,7 @@
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-js-plain",
             "name": "JavaScript"
           }
         ]
@@ -57,7 +57,7 @@
       {
         "title": "3D Object Viewer",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Javascript framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -65,8 +65,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-js-plain",
+            "name": "Javascript"
           },
           {
             "class": "devicon-typescript-plain",
